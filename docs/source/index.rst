@@ -11,25 +11,24 @@ Welcome! This is a place to introduce Zeta Bank's robot!
 .. raw:: html
 
     <div>
-        <h2>Two large robot models from ZetaBank</h2>
+        <h2>Zetabank's mobile collaborative robot</h2>
     </div>
 
-1. Model C - It is a untact service robot that introduces the place at any place, introduces what events are held, and provides route-finding services.
-2. Model D - In some places, wet disinfection is carried out by spraying disinfectant solutions, and dry disinfection is carried out using UV lamps and air purification functions.
+Model I - It is a mobile collaborative robot that combines a movable driving unit and a robot arm. It has dry disinfection and wet disinfection functions.
 
 .. toctree:: 
-    :caption: Model C - Untact service
+    :caption: Model I - Mobile collaborative robot
     :maxdepth: 1
     :hidden:
     :titlesonly: 
 
     0.intro/introduction
-    0.intro/operate
+    0.intro/parts
 
 .. toctree:: 
     :maxdepth: 5
     :hidden:
-    :caption: How to operate
+    :caption: Robot Functions
 
     operate/gui/index
     operate/autorun/index
