@@ -2,15 +2,15 @@ Functions
 ====================================================
 
 
-Welcome to ZetaBank Untact Service Robot!
+Welcome to ZetaBank Mobile collaborative robot!
 
-To introduce someone to Information about an Event, try a Untact Service Robot.
-The Untact service robot is called Model C.
+Introducing a mobile collaborative robot for living space sharing non-face-to-face service.
+The Mobile collaborative robot is called Model I.
 
 .. raw:: html
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://youtube.com/embed/dhHuwif5Q4M" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+        <iframe src="https://youtu.be/embed/aV5jIGkehI8" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div>
 
 |
