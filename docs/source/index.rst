@@ -2,7 +2,7 @@ ZetaBank Robot
 ===================
 
 
-Welcome! This is a place to introduce Zeta Bank's robots!
+Welcome! This is a place to introduce Zeta Bank's robot!
 
 .. thumbnail:: /_images/robot/CD.jpg
       :width: 800
