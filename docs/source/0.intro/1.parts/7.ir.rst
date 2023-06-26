@@ -12,7 +12,7 @@ IR Camera
 - Used to check IR Marker of charging station
 - Adjust the position of the robot for charging using the identified IR marker and the ultrasonic sensor at the bottom of the rear
 
-.. thumbnail:: /_images/components/cam.png
+.. thumbnail:: /_images/components/ircam.png
 
 ------------------------------------------------------------------------------------------
 
