@@ -5,6 +5,8 @@ A safe area is set around the robot, and all operations are paused when an objec
 
 Areas are visualized and shown using red and green lasers.
 
+------------------------------------------------------------------------------------------
+
 LiDAR
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
