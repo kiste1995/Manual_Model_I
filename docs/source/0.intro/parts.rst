@@ -1,39 +1,34 @@
-Components
-=============================
+How to operate using the joystick
+=======================================
 
-Introducing the components of the robot. 
+Before controlling the robot using a PC, you need to know the basic operation method. 
 
-It also explains what functions the components perform.
+This is because you need to use a joystick to create a map or create motion using a robot arm. \
 
-------------------------------------------------------------------------------------------------------------------------------------
+The operation methods for the two different types of robots are explained below.
 
-Using GUI
------------------------------------------
+-------------------------------------------------------------------------------
 
--    It is used by developers or administrators to test individual functions or perform debugging by checking logs and error codes.
+DIY / MINI Robot
+-----------------------
 
-.. thumbnail:: /_images/start_gui/start3.jpg
-      :width: 500
-      :height: 300
+.. thumbnail:: /_images/course_1/2.robot_control/mini.png
+    
+|
 
-------------------------------------------------------------------------------------------------------------------------------------
+.. thumbnail:: /_images/course_1/2.robot_control/joystick1.png
 
-Using GUI
------------------------------------------
+-------------------------------------------------------------------------------
 
--    It is used by developers or administrators to test individual functions or perform debugging by checking logs and error codes.
+ARM Robot
+-----------------------
 
-.. thumbnail:: /_images/start_gui/start3.jpg
-      :width: 500
-      :height: 300
+.. thumbnail:: /_images/course_1/2.robot_control/arm.png
+    
+|
 
-------------------------------------------------------------------------------------------------------------------------------------
+.. thumbnail:: /_images/course_1/2.robot_control/joystick2.png
 
-Auto Run
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+|
 
--    After placing the robot in the designated location, when power is supplied to the robot, scheduling is automatically executed.
-
-.. thumbnail:: /_images/start_gui/pm2.jpg
-      :width: 500
-      :height: 300
+.. thumbnail:: /_images/course_1/2.robot_control/joystick3.png
