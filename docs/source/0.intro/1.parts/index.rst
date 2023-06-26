@@ -10,10 +10,9 @@ It also explains what functions the components perform.
     1.start
     2.estop
     3.arm
-    4.lidar
+    4.safety
     5.sonar
-    6.safety
-    7.UV
-    8.ir
-    9.display
-    10.battery
+    6.UV
+    7.ir
+    8.display
+    9.battery
