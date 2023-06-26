@@ -1,0 +1,26 @@
+Robot Arm
+====================================================
+
+Various functions can be performed by combining the multi-joint robot arm and Endtool.
+
+Arm
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+It is a part to perform various functions such as a fingerprint reader and quarantine in a conference room.
+
+It can be adjusted according to various angles and heights by using several joints.
+
+.. thumbnail:: /_images/components/arm.jpg
+
+------------------------------------------------------------------------------------------
+
+Endtool
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Endtool attached to the end of the robot arm can perform multiple functions.
+
+- Object Recognition Using Cam
+- Dry disinfection using UV lamp
+- Disinfectant spray using pump and nozzle
+
+.. thumbnail:: /_images/components/endtool.jpg
