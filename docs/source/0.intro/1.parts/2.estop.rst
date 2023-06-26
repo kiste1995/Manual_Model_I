@@ -1,4 +1,4 @@
-Start Robot
+E-STOP
 ====================================================
 
 Robots aren't completely safe.
@@ -8,7 +8,7 @@ It has an E-STOP button to prepare for unexpected safety accidents.
 -------------------------------------------------------------------------------
 
 E-STOP Button
------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 There is one E-STOP button on the left and right. When the button is pressed, the robot will stop all motions in progress.
 
