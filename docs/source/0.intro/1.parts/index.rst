@@ -14,5 +14,5 @@ It also explains what functions the components perform.
     5.sonar
     6.uv
     7.ir
-    8.display
+    8.screen
     9.battery
