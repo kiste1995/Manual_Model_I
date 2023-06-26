@@ -1,16 +1,25 @@
-How to operate
+Components
 =============================
 
-Model C has two modes of operation.
+Introducing the components of the robot. 
 
-Manual operation using GUI and execution of individual functions.
-
-Automatic execution of schedules using PM2.
+It also explains what functions the components perform.
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Using GUI
-^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------------
+
+-    It is used by developers or administrators to test individual functions or perform debugging by checking logs and error codes.
+
+.. thumbnail:: /_images/start_gui/start3.jpg
+      :width: 500
+      :height: 300
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Using GUI
+-----------------------------------------
 
 -    It is used by developers or administrators to test individual functions or perform debugging by checking logs and error codes.
 
