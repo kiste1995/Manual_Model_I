@@ -1,0 +1,24 @@
+Battery
+====================================================
+
+Battery status is very important for robot operation.
+
+Explains how to check the battery status and how to charge it manually.
+
+------------------------------------------------------------------------------------------
+
+Battery Status
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+There is a battery level indicator on the back of the robot that shows the battery percentage.
+
+.. thumbnail:: /_images/components/battery.png
+
+------------------------------------------------------------------------------------------
+
+Manual charging
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+If you connect the charger to the charging port on the left side of the robot, charging will start in 1-3 seconds.
+
+.. thumbnail:: /_images/components/battery2.png
