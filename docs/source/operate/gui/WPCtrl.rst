@@ -9,6 +9,8 @@ Route Trajectory Designation Driving
 
 **GUI execution screen when button is clicked**
 
+- It activates the waypoint function as well as the lidar's safe area function.
+
 .. thumbnail:: /_images/start_gui/wp.png
 
 .. thumbnail:: /_images/start_gui/wp2.png
