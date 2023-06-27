@@ -31,11 +31,8 @@ For illustrative purposes, the coordinates are given as name1, name2, and name3.
 
 .. thumbnail:: /_images/start_gui/naviwaypoints4.png
 
-- After selecting other targets, press the start button. The start button is disabled, and the stop button is enabled.
+- Choose another destination. After that, it's the same as above.
 
-- It is displayed in the message box, and the LED color under the navi changes to blue.
+- When it arrives, the message Reached final destination is displayed on the Robot Status, and the color of the Navi LED changes to green.
 
-- When the costmap is cleared, it moves to the other targets coordinates.
-
-- When you arrive at your destination, the start button is enabled and the stop button is disabled.
 
