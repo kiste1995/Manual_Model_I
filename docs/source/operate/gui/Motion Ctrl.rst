@@ -25,8 +25,6 @@ It works when you hold down the button, and stops when you release it.
 
 -----------------------------------------------------------------------------------
 
-- Init Angle : Manually change the robot's heading angle
+**Motion Ctrl execution screen**
 
 .. thumbnail:: /_images/start_gui/motion4.png
-
-.. thumbnail:: /_images/start_gui/motion5.png
