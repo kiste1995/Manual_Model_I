@@ -25,4 +25,6 @@ How to start GUI
 
 **ZBMRGS.launch execution screen**
 
-.. thumbnail:: /_images/start_gui/start4.png    
+.. thumbnail:: /_images/start_gui/start5.png
+
+.. thumbnail:: /_images/start_gui/start6.png     
