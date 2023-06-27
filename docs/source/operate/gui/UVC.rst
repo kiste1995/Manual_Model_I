@@ -21,6 +21,8 @@ Operation of the UVC lamp at the Endtool & bottom of the robot
 
 ---------------------------------------------------------------------------------
 
+2. Bottom UVC
+
 .. thumbnail:: /_images/start_gui/uvc3.png
 
 - When the UVC BT On button is pressed, a message is displayed in the message box, and the UVCB LED is also turned on in red.
