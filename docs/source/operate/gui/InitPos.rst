@@ -15,12 +15,6 @@ Specifying the initial coordinates of the robot
 
 --------------------------------------------------------------------------
 
-**Terminal execution screen when button is clicked**
-
-.. thumbnail:: /_images/start_gui/initpos3.png
-
---------------------------------------------------------------------------
-
 **RVIZ execution screen when button is clicked**
 
 .. thumbnail:: /_images/start_gui/initpos4.png
