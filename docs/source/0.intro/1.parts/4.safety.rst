@@ -1,7 +1,7 @@
 Safety Features
 ====================================================
 
-A safe area is set around the robot, and all operations are paused when an object is detected within the area during robot arm operation.
+A safety area is set around the robot, and all operations are paused when an object is detected within the area during robot arm operation.
 
 Areas are visualized and shown using red and green lasers.
 
@@ -16,21 +16,21 @@ There is a front lidar and a rear lidar, and the detection range of the two lida
 
 ------------------------------------------------------------------------------------------
 
-Safe area setting
+Safety area setting
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Since lidar's detection range is very wide, a safe area is set aside to narrow the range.
+Since lidar's detection range is very wide, a safety area is set aside to narrow the range.
 
-Set the robot to react only when an object is detected inside the safe area.
+Set the robot to react only when an object is detected inside the safety area.
 
 .. thumbnail:: /_images/components/sick.png
 
 ------------------------------------------------------------------------------------------
 
-Safe area visualization
+Safety area visualization
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When a safe area is visible, pedestrians can first recognize and act on it.
+When a safety area is visible, pedestrians can first recognize and act on it.
 
 - Object Not Detected inside area : GREEN
 - Object Detected inside area : RED

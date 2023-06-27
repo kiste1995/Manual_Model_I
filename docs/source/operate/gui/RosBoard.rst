@@ -17,81 +17,58 @@ Web-based ROS topic and robot control program execution
 
 .. thumbnail:: /_images/start_gui/rosboard3.png
 
-.. thumbnail:: /_images/start_gui/rosboard4.png
-
 --------------------------------------------------------------------------------------
 
 **Launch web browser**
 
 1. Robot remote control
 
-.. thumbnail:: /_images/start_gui/rosboard5.png
+.. thumbnail:: /_images/start_gui/rosboard4.png
 
-- Left / Right / Up / Down / Stop
+- Left / Right / Forward / Backward / Stop
 - Linear velocity / Angular velocity
 
 --------------------------------------------------------------------------------------
 
-2. Air Purifier
+2. Safe area detection settings
 
-.. thumbnail:: /_images/start_gui/rosboard6.png
+.. thumbnail:: /_images/start_gui/rosboard5.png
 
-- Air purifier operation/stop
-- Specify speed value (Enter Value, Dial Adjustment)
+- Front, Rear lidar safety area detection settings
+- Front and Rear lidar safety area range selection
 
 --------------------------------------------------------------------------------------
 
 3. UVC
 
-.. thumbnail:: /_images/start_gui/rosboard7.png
+.. thumbnail:: /_images/start_gui/rosboard6.png
 
-- UVC ON / OFF
+- Endtool & Bottom UVC ON / OFF
 
 --------------------------------------------------------------------------------------
 
-4. LED - Bar Control
+4. Laser control
+
+.. thumbnail:: /_images/start_gui/rosboard7.png
+
+- Green & Red laser ON / OFF
+
+--------------------------------------------------------------------------------------
+
+5. Sonar data
 
 .. thumbnail:: /_images/start_gui/rosboard8.png
 
-- After selecting a color, change the LED color through the send button
+- Sonar topic & Gauge bar output
 
 --------------------------------------------------------------------------------------
 
-5. etc data
+6. Scan data
 
 .. thumbnail:: /_images/start_gui/rosboard9.png
 
-- Battery status display
-- Output sonar sensor value
-- Output scan topic data
-- Output Robot pos data
+- Scan data output received from lidar of the current robot
 
 --------------------------------------------------------------------------------------
 
-6. Air Information
-
-.. thumbnail:: /_images/start_gui/rosboard10.png
-
-- Output air quality sensor topic
-
---------------------------------------------------------------------------------------
-
-7. TF topic
-
-.. thumbnail:: /_images/start_gui/rosboard11.png
-
-- Output transforms topic
-
---------------------------------------------------------------------------------------
-
-8. USB Cam
-
-.. thumbnail:: /_images/start_gui/rosboard12.png
-
-.. thumbnail:: /_images/start_gui/rosboard13.png
-
-- Output cam view
-
-.. thumbnail:: /_images/start_gui/rosboard14.png
-
-- End cam view
+In addition to this, you can receive various types of topic data.

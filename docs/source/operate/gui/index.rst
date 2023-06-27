@@ -19,14 +19,8 @@ Here are the contents how to use GUI
     Navigate Way Points
     Navigate Trajectories
     Parking C.S.
-    Air Information
-    Air Purifier
-    Configuration
-    Cam View
-    RS View
     AMCL Pos
     UVC
-    Control LED-bar
     Ready
     Mapping
     RosBoard
