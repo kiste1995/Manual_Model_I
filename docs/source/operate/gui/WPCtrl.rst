@@ -20,3 +20,5 @@ Route Trajectory Designation Driving
 **Terminal execution screen when button is clicked**
 
 .. thumbnail:: /_images/start_gui/wp3.png
+
+.. thumbnail:: /_images/start_gui/wp4.png
