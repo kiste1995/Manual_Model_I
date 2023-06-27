@@ -27,4 +27,4 @@ How to start GUI
 
 .. thumbnail:: /_images/start_gui/start5.png
 
-.. thumbnail:: /_images/start_gui/start6.png     
+.. thumbnail:: /_images/start_gui/start7.png     
