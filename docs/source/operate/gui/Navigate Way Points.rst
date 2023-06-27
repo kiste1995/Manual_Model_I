@@ -33,6 +33,6 @@ For illustrative purposes, the coordinates are given as name1, name2, and name3.
 
 - Choose another destination. After that, it's the same as above.
 
-- When it arrives, the message Reached final destination is displayed on the Robot Status, and the color of the Navi LED changes to green.
+- When it arrives, the message Reached final destination is displayed on the MR Status, and the color of the Navi LED changes to green.
 
 
