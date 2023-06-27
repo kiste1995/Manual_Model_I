@@ -21,5 +21,3 @@ Distance measurement sensors, and robot variables
 
 .. thumbnail:: /_images/start_gui/bringup.png
 
-.. thumbnail:: /_images/start_gui/bringup2.png
-
