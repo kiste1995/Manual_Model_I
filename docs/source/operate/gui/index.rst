@@ -19,7 +19,9 @@ Here are the contents how to use GUI
     Navigate Way Points
     Navigate Trajectories
     Parking C.S.
+    Configuration
     AMCL Pos
+    sol
     UVC
     Ready
     Mapping
