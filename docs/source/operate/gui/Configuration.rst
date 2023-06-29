@@ -51,33 +51,15 @@ Configuration
 
     <div style="background: #D3D3D3" class="admonition note custom">
         <p style="background: #A9A9A9" class="admonition-title">
-            Auto Purifier
-        </p>
-        <ul>
-            <li>
-                Air purifier automatic operation
-                <ul>
-                    <li>Activates when harmful substances above the standard value are detected based on air information</li>
-                </ul>
-            </li>
-        </ul>
-    </div>
-
---------------------------------------------------------------------------
-
-.. raw:: html
-
-    <div style="background: #D3D3D3" class="admonition note custom">
-        <p style="background: #A9A9A9" class="admonition-title">
             Use Sonar
         </p>
         <ul>
             <li>
-                Ultrasonic sensor used for robot backwards
+                Ultrasonic sensors used in front, back, left and right directions
                 <ul>
-                    <li>There are frequent cases where the robot cannot move forward due to frontal and side obstacles.</li>
-                    <li>Set to move away from obstacles after moving backward for a set period of time on the driving algorithm</li>
-                    <li>Since the lidar of the robot cannot detect the rear, it is used to reverse to a distance where an object is not detected within a certain distance through the sonar sensor.</li>
+                    <li>During autonomous driving, there are occasional cases where the driver leaves the map to evade.</li>
+                    <li>In the driving algorithm, it reverses and moves away so that it can return to the normal driving state after a certain period of time.</li>
+                    <li>If an obstacle is detected behind you while in reverse, the vehicle will stop.</li>
                 </ul>
             </li>
         </ul>
