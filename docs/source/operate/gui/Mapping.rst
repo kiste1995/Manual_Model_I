@@ -39,7 +39,7 @@ Creating maps for automated driving
 
 **Save Map**
 
-.. thumbnail:: /_images/start_gui/mappin6.png
+.. thumbnail:: /_images/start_gui/mapping6.png
 
 - After drawing the map, click save map.
 - The name of the map stored in the terminal is output.
