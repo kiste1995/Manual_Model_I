@@ -34,7 +34,7 @@ Sol Off
 
 .. thumbnail:: /_images/start_gui/pump.png
 
-PUMP On
+Pump On
 
 - Activate the pump output in the message box
 - Pump LED turns blue
