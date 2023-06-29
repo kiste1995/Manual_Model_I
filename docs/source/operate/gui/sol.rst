@@ -22,8 +22,7 @@ Sol On
 
 .. thumbnail:: /_images/start_gui/sol2.png
 
-Sol Off
-
+Sol Off:
 - Deactivate the solenoid valve output in the message box
 - Pump LED turns off
 - Output 'false' to terminal
