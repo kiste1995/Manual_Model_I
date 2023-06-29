@@ -63,9 +63,9 @@ Automatic execution of packages for robot driving
 
 **Finish**
 
-.. thumbnail:: /_images/start_gui/autorun10.jpg
+.. thumbnail:: /_images/start_gui/autorun10.png
 
-.. thumbnail:: /_images/start_gui/autorun11.jpg  
+.. thumbnail:: /_images/start_gui/autorun11.png  
 
 - After all tasks are completed, Ready button changes to an Init button, and 100% is output.
 - When the Done ready message is confirmed, operation preparation is complete.
