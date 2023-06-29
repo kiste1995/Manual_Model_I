@@ -32,7 +32,7 @@ Model I - It is a mobile collaborative robot that combines a movable driving uni
 
     operate/gui_driving/index
     operate/gui_arm/index
-
+    operate/safety/index
 
 
 
