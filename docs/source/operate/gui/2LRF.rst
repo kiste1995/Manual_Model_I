@@ -1,4 +1,4 @@
-M-LRF
+Act 2LRF
 ========================
 
 Front/rear distance measurement sensor program

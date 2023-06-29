@@ -7,7 +7,7 @@ Here are the contents how to use GUI
 
     Start
     Bringup
-    M-LRF
+    2LRF
     OP
     Navigation
     NaviRVIZ
