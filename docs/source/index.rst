@@ -28,7 +28,7 @@ Model I - It is a mobile collaborative robot that combines a movable driving uni
 .. toctree:: 
     :maxdepth: 5
     :hidden:
-    :caption: Robot Control
+    :caption: Using GUI for Robot Control
 
     operate/gui_driving/index
     operate/gui_arm/index
