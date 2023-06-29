@@ -11,18 +11,18 @@ Below, the method of dispensing the disinfectant solution is explained in order.
 
 **Executing the Sol function**
 
-Sol On
-
 .. thumbnail:: /_images/start_gui/sol.png
+
+Sol On
 
 - Activate the solenoid valve output in the message box
 - Pump LED turns Orange
 - Output 'true' to terminal
 |
 
-Sol Off
-
 .. thumbnail:: /_images/start_gui/sol2.png
+
+Sol Off
 
 - Deactivate the solenoid valve output in the message box
 - Pump LED turns off
