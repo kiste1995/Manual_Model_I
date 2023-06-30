@@ -5,7 +5,7 @@ If the safe area motion is activated, the driving part of the robot and the robo
 
 -----------------------------------------------------------------
 
-Execution of front LiDAR safety area operation
+**Execution of front LiDAR safety area operation**
 
 .. thumbnail:: /_images/start_gui/lidar.png
 
@@ -13,7 +13,7 @@ Execution of front LiDAR safety area operation
 
 -------------------------------------------------------------------------------------------------
 
-Execution of rear LiDAR safety area operation
+**Execution of rear LiDAR safety area operation**
 
 .. thumbnail:: /_images/start_gui/lidar3.png
 
