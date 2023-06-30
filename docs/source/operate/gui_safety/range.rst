@@ -1,4 +1,4 @@
-Safety Area (Range)
+Safety Area (range)
 ==================================
 
 The range of the safety area is different for each place where the robot functions.
