@@ -21,8 +21,6 @@ Functions used for driving
     Parking C.S.
     Configuration
     AMCL Pos
-    sol
-    UVC
     Ready
     Mapping
     RosBoard
