@@ -7,7 +7,7 @@ Enter the registered range number to change the safe area according to the place
 
 -----------------------------------------------------------------
 
-Select Front Range #1
+**Select Front Range #1**
 
 .. thumbnail:: /_images/start_gui/range.png
 
@@ -15,7 +15,7 @@ Select Front Range #1
 
 -------------------------------------------------------------------------------------------------
 
-Select Rear Range #1
+**Select Rear Range #1**
 
 .. thumbnail:: /_images/start_gui/range3.png
 
