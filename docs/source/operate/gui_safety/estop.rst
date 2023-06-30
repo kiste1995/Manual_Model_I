@@ -2,7 +2,7 @@ E - stop
 ==================================
 
 When the estop button works
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - GUI : Estop LED lights red
 - Terminal: Output a message that the estop button has been activated, Estop log creation
@@ -11,7 +11,7 @@ When the estop button works
 -------------------------------------------------------------------------------------------------
 
 When the estop function is released
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - GUI: Estop LED off
 - Terminal: Estop function and Lidar detecting function release message output
