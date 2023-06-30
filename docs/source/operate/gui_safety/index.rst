@@ -1,7 +1,7 @@
-Autonomous Driving
+Robot Arm
 ==================
 
-Functions used for driving
+Safety related functions
 
 .. toctree:: 
 

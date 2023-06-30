@@ -1,7 +1,7 @@
-Autonomous Driving
+Robot Arm
 ==================
 
-Functions used for driving
+Functions for using the robot arm
 
 .. toctree:: 
 

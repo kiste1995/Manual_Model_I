@@ -30,10 +30,11 @@ Model I - It is a mobile collaborative robot that combines a movable driving uni
     :hidden:
     :caption: Using GUI for Robot Control
 
+    operate/explanation
     operate/gui_driving/index
     operate/gui_arm/index
-    operate/safety/index
-    operate/disinfection/index
+    operate/gui_safety/index
+    operate/gui_disinfection/index
 
 
 
