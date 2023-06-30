@@ -6,5 +6,7 @@ Safety related functions
 .. toctree:: 
 
     estop
-    field
+    lidar
+    range
+    
 
