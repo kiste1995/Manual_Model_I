@@ -1,7 +1,7 @@
 GUI for Autonomous Driving
 ==================
 
-Here are the contents how to use GUI
+Features related to driving
 
 .. toctree:: 
 
