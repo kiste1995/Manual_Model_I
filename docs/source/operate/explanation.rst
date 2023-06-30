@@ -65,7 +65,9 @@ Before we get into it, let me explain what will help you understand the behind t
 ----------------------------------------------------------------------------------------------
 
 .. thumbnail:: /_images/start_gui/log.png
-
-- Log file storage location : /home/zetabank/catkin_ws/src/robot_control_gui/log
     :width: 500
     :height: 500
+
+- Log file storage location : /home/zetabank/catkin_ws/src/robot_control_gui/log
+:width: 500daffadsfadsfdsafd
+:height: 500adfafadfasfasfasfa
