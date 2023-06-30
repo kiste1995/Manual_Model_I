@@ -1,4 +1,4 @@
-Safety Area
+Safety Area (action)
 ==================================
 
 If the safe area motion is activated, the driving part of the robot and the robot arm stop moving when an object inside the area is detected.
