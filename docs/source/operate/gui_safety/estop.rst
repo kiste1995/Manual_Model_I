@@ -13,6 +13,6 @@ When the estop button works
 When the estop function is released
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. thumbnail:: /_images/start_gui/estop2.png
 - GUI: Estop LED off
 - Terminal: Estop function and Lidar detecting function release message output
+.. thumbnail:: /_images/start_gui/estop2.png
