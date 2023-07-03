@@ -7,6 +7,8 @@ Used to initialize joint positions
 
 **Init. Pos. DSR**
 
+- Move to the set initial position
+
 .. thumbnail:: /_images/start_gui/init.png
 
 .. thumbnail:: /_images/start_gui/init2.jpg
@@ -16,6 +18,8 @@ Used to initialize joint positions
 -------------------------------------------------------------------    
 
 **Zero Pos. DSR**
+
+- Move all joints to ‘0’
 
 .. thumbnail:: /_images/start_gui/zero.png
 
