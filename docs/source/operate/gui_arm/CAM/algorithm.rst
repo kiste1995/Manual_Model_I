@@ -39,13 +39,13 @@ Fingerprint Recognition Position Adjustment Algorithm Using CAM
 
 **Algorithm**
 
-.. - Move the robot arm to a specific position to apply the recognition algorithm
+- Move the robot arm to a specific position to apply the recognition algorithm
 
-.. - Camera image capture
+- Camera image capture
 
-.. - Change camera color information, convert to gray image
+- Change camera color information, convert to gray image
 
-.. - Apply various filters and image outline extraction algorithms to extract the rectangle outside the fingerprint reader
+- Apply various filters and image outline extraction algorithms to extract the rectangle outside the fingerprint reader
 
 5. Extracting the outline of the fingerprint reader and acquiring the center coordinates
 
