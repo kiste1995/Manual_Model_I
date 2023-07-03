@@ -41,6 +41,7 @@ Fingerprint Recognition Position Adjustment Algorithm Using CAM
 
 1. Move the robot arm to a specific position to apply the recognition algorithm
 
+
 2. Camera image capture
 
 3. Change camera color information, convert to gray image
