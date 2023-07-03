@@ -41,9 +41,9 @@ Model I - It is a mobile collaborative robot that combines a movable driving uni
     :hidden:
     :caption: Disinfection process by location
 
-    untitled/introduction
-    untitled/hdi
-    untitled/crdi
-    untitled/schedule
+    process/introduction
+    process/hdi
+    process/crdi
+    process/schedule
 
 
