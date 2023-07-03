@@ -43,12 +43,6 @@ Execute after positioning the robot near the fingerprint reader
 
 .. thumbnail:: /_images/start_gui/apply5.png
 
-.. raw:: html
-
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/Q6WJchtp2bc" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div>
-
 -------------------------------------------------------------------    
 
 **Return of the robot arm**
@@ -56,3 +50,13 @@ Execute after positioning the robot near the fingerprint reader
 - When the disinfection of the fingerprint reader is completed, the arm returns to the init point.
 
 .. thumbnail:: /_images/start_gui/apply7.png
+
+-------------------------------------------------------------------    
+
+**Full Procedure**
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/Q6WJchtp2bc" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
