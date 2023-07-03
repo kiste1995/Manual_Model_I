@@ -11,7 +11,7 @@ Used to initialize joint positions
 
 .. thumbnail:: /_images/start_gui/init2.jpg
       :width: 500
-      :height: 500
+      :height: 300
 
 -------------------------------------------------------------------    
 
@@ -19,6 +19,6 @@ Used to initialize joint positions
 
 .. thumbnail:: /_images/start_gui/zero.png
 
-.. thumbnail:: /_images/start_gui/zero2.png
+.. thumbnail:: /_images/start_gui/zero2.jpg
       :width: 500
-      :height: 500
+      :height: 300
