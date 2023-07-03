@@ -39,7 +39,7 @@ Model I - It is a mobile collaborative robot that combines a movable driving uni
 .. toctree:: 
     :maxdepth: 5
     :hidden:
-    :caption: Disinfection Process
+    :caption: Disinfection process by location
 
     untitled/introduction
     untitled/hdi
