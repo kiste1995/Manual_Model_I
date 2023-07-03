@@ -43,9 +43,9 @@ Fingerprint Recognition Position Adjustment Algorithm Using CAM
 
 - Camera image capture
 
-3. Change camera color information, convert to gray image
+- Change camera color information, convert to gray image
 
-4. Apply various filters and image outline extraction algorithms to extract the rectangle outside the fingerprint reader
+- Apply various filters and image outline extraction algorithms to extract the rectangle outside the fingerprint reader
 
 5. Extracting the outline of the fingerprint reader and acquiring the center coordinates
 
