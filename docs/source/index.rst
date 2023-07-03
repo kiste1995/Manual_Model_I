@@ -36,6 +36,14 @@ Model I - It is a mobile collaborative robot that combines a movable driving uni
     operate/gui_safety/index
     operate/gui_disinfection/index
 
+.. toctree:: 
+    :maxdepth: 5
+    :hidden:
+    :caption: untitled
 
+    untitled/introduction
+    untitled/hdi
+    untitled/crdi
+    untitled/schedule
 
 
