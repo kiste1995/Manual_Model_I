@@ -1,10 +1,10 @@
 Introduction
 ====================================================
 
-Using the functions described above, we will explain actual cases of dry and wet disinfection.
+Based on the features described above, here are examples of disinfection processes by location.
 
-Due to the regulation-free special zone demonstration project, it was demonstrated in the annex of Daegu City Hall.
+We would like to explain the demonstration task of the regulation-free special zone with an example that We actually worked on while carrying out the Daegu City Hall annex.
 
-It is divided into two types: dry disinfection in the corridor and wet disinfection in the conference room.
+Introducing the dry disinfection performed in the hallway, the wet disinfection performed in the conference room, and the scheduling function that automatically performs tasks at set times.
 
-So, I will explain Run HDI, CRDI, and Schedule, which are functions that are in the gui but have not been explained.
+.. thumbnail:: /_images/start_gui/process.jpg
