@@ -14,7 +14,7 @@ Disinfection process performed at set times
 
 -------------------------------------------------------------------------------------------
 
-- Start scheduling, other buttons disabled
+- Start scheduling, other button disabled
 
 .. thumbnail:: /_images/start_gui/schedule2.png
 
