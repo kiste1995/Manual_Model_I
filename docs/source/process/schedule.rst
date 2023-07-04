@@ -1,4 +1,4 @@
-Hallway Disinfection
+Schedule
 ==================================
 
 Disinfection process performed at set times
